@@ -1,7 +1,12 @@
-
-
 #!/usr/bin/python
 #-*- encoding=utf8 -*-
+
+
+'''
+检查Android工程中图片大小和重复图片
+v1.0.0
+chengchao128@gmail.com
+'''
 
 import os,sys
 import hashlib
