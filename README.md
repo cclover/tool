@@ -1,11 +1,11 @@
 # tool
 
 
-##AndroidImageChecker
+## AndroidImageChecker
 检查Android图片资源大小和重复图片的工具.
 
 
-###使用
+### 使用
 放在工程的根目录。执行命令。 
 
 ```shell
